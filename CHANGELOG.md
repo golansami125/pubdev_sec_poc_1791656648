@@ -1,2 +1,2 @@
-## 0.3.0
-- PoC publish.
+## 0.3.1
+- PoC publish after lock reset.
